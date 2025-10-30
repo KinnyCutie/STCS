@@ -15,3 +15,9 @@ Firefox:
 2. Extensions & Themes
 3. Go to the search icon
 4. Load from file (or load debug extension if it doesn't work)
+
+When approved onto official sites:
+
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/stcs/
+Opera GX: TBD
+Chrome: TBD
