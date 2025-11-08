@@ -20,6 +20,6 @@ When approved onto official sites:
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/stcs/
 Opera GX: TBD
-Chrome: TBD
+Chrome: https://chromewebstore.google.com/detail/stcs/cjcbfgjcdboahhahbaeejgaclcabhfdo
 
 Privacy Policy(chrome webstore requirement): https://rentry.co/stcsprivacypolicy
